@@ -1,0 +1,31 @@
+﻿{
+	"version": 1561915000,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/ball-sheet0.png",
+		"images/ball-sheet1.png",
+		"images/circle-sheet0.png",
+		"images/turnleft-sheet0.png",
+		"images/turnright-sheet0.png",
+		"images/hitline-sheet0.png",
+		"images/checkpoint-sheet0.png",
+		"images/star.png",
+		"images/titletxt-sheet0.png",
+		"images/scoretxt-sheet0.png",
+		"images/tiledbackground.png",
+		"images/besttxt-sheet0.png",
+		"images/replaybtn-sheet0.png",
+		"images/circleshadow.png",
+		"images/playbtn-sheet0.png",
+		"images/home-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
